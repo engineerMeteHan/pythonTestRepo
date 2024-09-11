@@ -1,2 +1,4 @@
 Hello Fred!
 Hello Fred do you know that I love Coding?
+I love the Python and VHDL/Verilog
+Metehan is an Embedded System Engineer!!
